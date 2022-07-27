@@ -14,9 +14,6 @@ Skills: .net,.net Core, Entity Framwork Python,
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih-Sglm&show_icons=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih-Sglm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
