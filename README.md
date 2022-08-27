@@ -5,8 +5,8 @@
 Skills: .net,.net Core, Entity Framwork Python,
 
 - 🔭 I’m currently working on .net Core 
-- 🌱 I’m currently learning .net Core,Flutter 
-- 🤔 I’m looking for help with .net core,Flutter 
+- 🌱 I’m currently learning .net Core 
+- 🤔 I’m looking for help with .net core 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih-Sglm&theme=merko&show_icons=true)
