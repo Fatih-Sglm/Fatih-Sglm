@@ -8,6 +8,7 @@ Skills: .net,.net Core, Entity Framwork Python,
 - 🌱 I’m currently learning .net Core 
 - 🤔 I’m looking for help with .net core 
 
+![](https://komarev.com/ghpvc/?username=Fatih-Sglm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih-Sglm&theme=merko&show_icons=true)
 
