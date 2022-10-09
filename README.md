@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Fatih
+### Hi there 👋, I'm Fatih
 
   I am 24 years old. I am a computer engineer and Junior developer working with .Net and .Net Core Framework. I am also interested in mobile programming
 
