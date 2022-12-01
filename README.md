@@ -28,3 +28,7 @@ Tekonolojiler
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18657302/fatih) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://dotnet.microsoft.com/en-us/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](https://flutter.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](https://www.postgresql.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  
 
+
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Fatih-Sglm&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
