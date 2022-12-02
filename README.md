@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatih-sglm" alt="fatih-sglm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saglammarley" target="blank"><img src="https://img.shields.io/twitter/follow/saglammarley?logo=twitter&style=for-the-badge" alt="saglammarley" /></a> </p>
 
 - 🔭 I’m currently working on **E- Commerce Microservice Project**
 
@@ -18,8 +17,7 @@
 - 📫 How to reach me **fatih.sglmm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saglammarley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saglammarley" height="30" width="40" /></a>
+<p align="left"> 
 <a href="https://linkedin.com/in/fatihsglm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihsglm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18657302/fatih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18657302/fatih" height="30" width="40" /></a>
 <a href="https://instagram.com/fatih.sglmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih.sglmm" height="30" width="40" /></a>
