@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatih-sglm" alt="fatih-sglm" /></a> </p>
 
 
-- 🔭 I’m currently working on **E- Commerce Microservice Project**
-
 - 🌱 I’m currently learning **.Net Core, RabbitMq , Docker, Azure , Kubernets,**
 
 - 🤝 I’m looking for help with **.Net Core**
