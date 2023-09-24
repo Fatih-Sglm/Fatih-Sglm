@@ -27,12 +27,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatih-sglm&show_icons=true&locale=en&layout=compact" alt="fatih-sglm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatih-sglm&show_icons=true&locale=en" alt="fatih-sglm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatih-sglm&" alt="fatih-sglm" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fatih-sglm&theme=github-compact" alt="fatih-sglm" /></p>
+
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fatih-Sglm&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
